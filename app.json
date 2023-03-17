@@ -21,8 +21,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/images/logo-UT-1.png",
+        "backgroundColor": "#302c72"
       },
       "package": "com.arnelstudio.adminmobiuta",
       "versionCode": 1
